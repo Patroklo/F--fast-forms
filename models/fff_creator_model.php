@@ -11,5 +11,7 @@ class fff_creator_model extends fff_base {
 			
     }
     
-    
+    function index()
+	{
+	}
 }
